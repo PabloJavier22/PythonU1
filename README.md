@@ -33,8 +33,8 @@ Este progrma recibe una cadena de texto desde consola y comprueba si es un **pal
 ---
 
 ## Estructura del repositorio
--PythonU1/
-    -palindromo.py        # Código principal
-    -README.md            # Documentación
-    -.gitignore           # Archivos ignorados por Git
+- PythonU1/
+    - palindromo.py        # Código principal
+    - README.md            # Documentación
+    - .gitignore           # Archivos ignorados por Git
 
